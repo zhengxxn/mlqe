@@ -1,3 +1,5 @@
+These data is used and released in *Unsupervised Quality Estimation for Neural Machine Translation*
+
 Each source-target language ($sl-$tl) directory has a `*.tsv` file (training and dev) with the following columns:
 
 1) index: segment id
